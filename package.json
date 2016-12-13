@@ -1,0 +1,33 @@
+{
+  "name": "mtype-tv4",
+  "version": "0.1.0",
+  "description": "mtype backed by json schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schema",
+    "json",
+    "mtype"
+  ],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "dependencies": {
+    "mtype": "^0.1.2",
+    "tv4": "^1.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojule/mtype-tv4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojule/mtype-tv4/issues"
+  },
+  "homepage": "https://github.com/mojule/mtype-tv4#readme"
+}
