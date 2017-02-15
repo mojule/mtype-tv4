@@ -1,0 +1,13 @@
+{
+  "id": "product",
+  "type": "object",
+  "properties": {
+    "desc": {
+      "type": "string"
+    },
+    "price": {
+      "type": "number"
+    }
+  },
+  "required": [ "desc", "price" ]
+}
