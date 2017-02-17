@@ -1,4 +1,4 @@
-// Type definitions for mtype backed by json schemar mtype-node 0.1.x
+// Type definitions for mtype backed by json schema mtype-tv4 0.1.x
 // Project: https://github.com/mojule/mtype-tv4
 
 declare namespace mTV4 {
